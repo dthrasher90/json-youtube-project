@@ -1,0 +1,26 @@
+body {
+    background-color: steelblue;
+    font-family: sans-serif;
+
+}
+.searchformContainer{
+
+  text-align: center;
+}
+
+#searchForm {
+
+  height: 50px;
+  width:  100px;
+
+}
+ ul li{
+  background: #eee;
+  list-style: none;
+  border: 1px solid black;
+  padding: 10 px;
+  width: :10%;
+  margin: 10px;
+  font
+
+}
