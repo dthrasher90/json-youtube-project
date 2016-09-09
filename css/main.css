@@ -1,26 +1,48 @@
-body {
-    background-color: steelblue;
-    font-family: sans-serif;
+body{
+
+background-color: mintcream;
+font-family: sans-serif;
+}
+
+h1 {
+  height: 90px;
+  width: 100%;
+  background-color: plum;
+  text-align: center;
+  padding-top: 15px;
+}
+
+
+.mainwrapper{
+  border: 1px solid grey;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  clear: both;
+
 
 }
-.searchformContainer{
+.inputwrapper{
 
+  margin: 0 auto;
+  text-align: center;
+  width: 25%;
+  height: 100px;
+
+
+}
+
+.resultswrapper{
+
+  width: 75%;
+  height: 500px;
   text-align: center;
 }
 
-#searchForm {
+.videoinfo{
 
-  height: 50px;
-  width:  100px;
-
-}
- ul li{
-  background: #eee;
-  list-style: none;
-  border: 1px solid black;
-  padding: 10 px;
-  width: :10%;
-  margin: 10px;
-  font
-
+  font-family: sans-serif;
+  color: plum;
+  text-align: center;
+  font-size: 28px;
 }
